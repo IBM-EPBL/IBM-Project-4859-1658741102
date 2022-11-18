@@ -1,0 +1,13 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+images.jpg,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\images.jpg,36,30,115,96,0,0.3276691436767578,282,179
+images.jpg,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\images.jpg,35,43,215,127,0,0.524820864200592,282,179
+melanoma.png,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\melanoma.png,332,176,605,357,1,0.6620258092880249,921,597
+psoriasis (360).jpg,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\psoriasis (360).jpg,212,161,275,194,0,0.35554230213165283,764,375
+psoriasis (360).jpg,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\psoriasis (360).jpg,278,24,351,68,0,0.38672730326652527,764,375
+psoriasis (360).jpg,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\psoriasis (360).jpg,366,58,540,210,0,0.9125083684921265,764,375
+psoriasis.jpg,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\psoriasis.jpg,625,382,795,566,0,0.2996686100959778,1200,630
+psoriasis.jpg,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\psoriasis.jpg,646,222,785,543,0,0.5110622048377991,1200,630
+psoriasis.jpg,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\psoriasis.jpg,359,374,507,555,0,0.6486867070198059,1200,630
+rosacea (9).jpg,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\rosacea (9).jpg,71,31,266,141,2,0.33425241708755493,637,251
+test.jpg,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\test.jpg,273,139,624,510,2,0.36466965079307556,800,534
+test.jpg,C:\Users\HP\Desktop\Skin Disease-Flask\Data\Source_Images\Test_Images\test.jpg,275,189,506,365,2,0.5666651129722595,800,534
