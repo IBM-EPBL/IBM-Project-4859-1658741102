@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1bcfdf14bae3203f8dd5d58d8a0b0b8f",
+        "name": "desquamation-5.jpg",
+        "path": "file:C:/Users/Admin/Desktop/yolo_structure/Data/Source_Images/Training_Images/desquamation-5.jpg",
+        "size": {
+            "width": 480,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TeFIKZ9_i",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema Photos"
+            ],
+            "boundingBox": {
+                "height": 182.2085889570552,
+                "width": 163.3103448275862,
+                "left": 242.58620689655172,
+                "top": 234.11042944785277
+            },
+            "points": [
+                {
+                    "x": 242.58620689655172,
+                    "y": 234.11042944785277
+                },
+                {
+                    "x": 405.8965517241379,
+                    "y": 234.11042944785277
+                },
+                {
+                    "x": 405.8965517241379,
+                    "y": 416.319018404908
+                },
+                {
+                    "x": 242.58620689655172,
+                    "y": 416.319018404908
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

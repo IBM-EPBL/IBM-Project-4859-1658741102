@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1e1a1d1d5968262e81b5ef4d3c074ea2",
+        "name": "drug-eruptions-44.jpg",
+        "path": "file:C:/Users/Admin/Desktop/yolo_structure/Data/Source_Images/Training_Images/drug-eruptions-44.jpg",
+        "size": {
+            "width": 720,
+            "height": 472
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0J-yFSlAt",
+            "type": "RECTANGLE",
+            "tags": [
+                "Exanthems and Drug Eruptions"
+            ],
+            "boundingBox": {
+                "height": 107.56462585034014,
+                "width": 132.44147157190636,
+                "left": 234.38127090301003,
+                "top": 180.6373299319728
+            },
+            "points": [
+                {
+                    "x": 234.38127090301003,
+                    "y": 180.6373299319728
+                },
+                {
+                    "x": 366.8227424749164,
+                    "y": 180.6373299319728
+                },
+                {
+                    "x": 366.8227424749164,
+                    "y": 288.20195578231295
+                },
+                {
+                    "x": 234.38127090301003,
+                    "y": 288.20195578231295
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1e63774973f88d5738252e2146d81507",
+        "name": "actinic-cheilitis-sq-cell-lip-26.jpg",
+        "path": "file:C:/Users/Admin/Desktop/yolo_structure/Data/Source_Images/Training_Images/actinic-cheilitis-sq-cell-lip-26.jpg",
+        "size": {
+            "width": 720,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "z3nR0qmFs",
+            "type": "RECTANGLE",
+            "tags": [
+                "Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions"
+            ],
+            "boundingBox": {
+                "height": 120.40133779264214,
+                "width": 188.62876254180603,
+                "left": 345.9531772575251,
+                "top": 215.91973244147158
+            },
+            "points": [
+                {
+                    "x": 345.9531772575251,
+                    "y": 215.91973244147158
+                },
+                {
+                    "x": 534.5819397993312,
+                    "y": 215.91973244147158
+                },
+                {
+                    "x": 534.5819397993312,
+                    "y": 336.32107023411373
+                },
+                {
+                    "x": 345.9531772575251,
+                    "y": 336.32107023411373
+                }
+            ]
+        },
+        {
+            "id": "dfKqLxRSr",
+            "type": "RECTANGLE",
+            "tags": [
+                "Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions"
+            ],
+            "boundingBox": {
+                "height": 127.62541806020067,
+                "width": 107.55852842809365,
+                "left": 183.01003344481606,
+                "top": 231.17056856187293
+            },
+            "points": [
+                {
+                    "x": 183.01003344481606,
+                    "y": 231.17056856187293
+                },
+                {
+                    "x": 290.5685618729097,
+                    "y": 231.17056856187293
+                },
+                {
+                    "x": 290.5685618729097,
+                    "y": 358.7959866220736
+                },
+                {
+                    "x": 183.01003344481606,
+                    "y": 358.7959866220736
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

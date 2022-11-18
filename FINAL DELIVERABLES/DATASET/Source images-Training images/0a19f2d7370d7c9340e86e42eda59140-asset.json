@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0a19f2d7370d7c9340e86e42eda59140",
+        "name": "Erysipelas-2.jpg",
+        "path": "file:C:/Users/Admin/Desktop/yolo_structure/Data/Source_Images/Training_Images/Erysipelas-2.jpg",
+        "size": {
+            "width": 486,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qKDYDGOq9",
+            "type": "RECTANGLE",
+            "tags": [
+                "Cellulitis Impetigo and other Bacterial Infections"
+            ],
+            "boundingBox": {
+                "height": 113.74233128834356,
+                "width": 215.38636363636363,
+                "left": 111.07585227272727,
+                "top": 228.58895705521473
+            },
+            "points": [
+                {
+                    "x": 111.07585227272727,
+                    "y": 228.58895705521473
+                },
+                {
+                    "x": 326.4622159090909,
+                    "y": 228.58895705521473
+                },
+                {
+                    "x": 326.4622159090909,
+                    "y": 342.3312883435583
+                },
+                {
+                    "x": 111.07585227272727,
+                    "y": 342.3312883435583
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

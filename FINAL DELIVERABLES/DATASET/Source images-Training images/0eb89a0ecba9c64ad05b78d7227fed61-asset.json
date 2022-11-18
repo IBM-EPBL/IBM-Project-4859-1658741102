@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0eb89a0ecba9c64ad05b78d7227fed61",
+        "name": "acne-closed-comedo-32.jpg",
+        "path": "file:C:/Users/Admin/Desktop/yolo_structure/Data/Source_Images/Training_Images/acne-closed-comedo-32.jpg",
+        "size": {
+            "width": 720,
+            "height": 470
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MHo2C8PKN",
+            "type": "RECTANGLE",
+            "tags": [
+                "Acne and Rosacea Photos"
+            ],
+            "boundingBox": {
+                "height": 49.72696245733789,
+                "width": 107.55852842809365,
+                "left": 278.5284280936455,
+                "top": 153.01567832764505
+            },
+            "points": [
+                {
+                    "x": 278.5284280936455,
+                    "y": 153.01567832764505
+                },
+                {
+                    "x": 386.0869565217391,
+                    "y": 153.01567832764505
+                },
+                {
+                    "x": 386.0869565217391,
+                    "y": 202.74264078498294
+                },
+                {
+                    "x": 278.5284280936455,
+                    "y": 202.74264078498294
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

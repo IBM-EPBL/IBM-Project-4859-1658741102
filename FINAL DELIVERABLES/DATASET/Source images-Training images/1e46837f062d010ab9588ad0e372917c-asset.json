@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1e46837f062d010ab9588ad0e372917c",
+        "name": "benign-familial-chronic-pemphigus-16.jpg",
+        "path": "file:C:/Users/Admin/Desktop/yolo_structure/Data/Source_Images/Training_Images/benign-familial-chronic-pemphigus-16.jpg",
+        "size": {
+            "width": 720,
+            "height": 483
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VRmIms-uQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Bullous Disease Photos"
+            ],
+            "boundingBox": {
+                "height": 226.25581395348837,
+                "width": 222.34113712374582,
+                "left": 149.29765886287626,
+                "top": 142.71366279069767
+            },
+            "points": [
+                {
+                    "x": 149.29765886287626,
+                    "y": 142.71366279069767
+                },
+                {
+                    "x": 371.6387959866221,
+                    "y": 142.71366279069767
+                },
+                {
+                    "x": 371.6387959866221,
+                    "y": 368.969476744186
+                },
+                {
+                    "x": 149.29765886287626,
+                    "y": 368.969476744186
+                }
+            ]
+        },
+        {
+            "id": "JhdGiFDmt",
+            "type": "RECTANGLE",
+            "tags": [
+                "Bullous Disease Photos"
+            ],
+            "boundingBox": {
+                "height": 178.11627906976744,
+                "width": 189.4314381270903,
+                "left": 451.1036789297659,
+                "top": 80.93459302325581
+            },
+            "points": [
+                {
+                    "x": 451.1036789297659,
+                    "y": 80.93459302325581
+                },
+                {
+                    "x": 640.5351170568562,
+                    "y": 80.93459302325581
+                },
+                {
+                    "x": 640.5351170568562,
+                    "y": 259.05087209302326
+                },
+                {
+                    "x": 451.1036789297659,
+                    "y": 259.05087209302326
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

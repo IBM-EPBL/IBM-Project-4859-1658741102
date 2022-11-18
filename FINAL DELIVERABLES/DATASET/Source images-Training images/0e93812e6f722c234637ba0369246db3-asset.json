@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0e93812e6f722c234637ba0369246db3",
+        "name": "actinic-cheilitis-sq-cell-lip-32.jpg",
+        "path": "file:C:/Users/Admin/Desktop/yolo_structure/Data/Source_Images/Training_Images/actinic-cheilitis-sq-cell-lip-32.jpg",
+        "size": {
+            "width": 720,
+            "height": 472
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2r4XMuXEz",
+            "type": "RECTANGLE",
+            "tags": [
+                "Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions"
+            ],
+            "boundingBox": {
+                "height": 93.1156462585034,
+                "width": 77.05685618729098,
+                "left": 359.59866220735785,
+                "top": 183.04549319727892
+            },
+            "points": [
+                {
+                    "x": 359.59866220735785,
+                    "y": 183.04549319727892
+                },
+                {
+                    "x": 436.6555183946488,
+                    "y": 183.04549319727892
+                },
+                {
+                    "x": 436.6555183946488,
+                    "y": 276.1611394557823
+                },
+                {
+                    "x": 359.59866220735785,
+                    "y": 276.1611394557823
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1b8d6734aef0d3d902e2f55185deb100",
+        "name": "bullous-pemphigoid-16.jpg",
+        "path": "file:C:/Users/Admin/Desktop/yolo_structure/Data/Source_Images/Training_Images/bullous-pemphigoid-16.jpg",
+        "size": {
+            "width": 480,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BKygE2SNS",
+            "type": "RECTANGLE",
+            "tags": [
+                "Bullous Disease Photos"
+            ],
+            "boundingBox": {
+                "height": 214.23312883435585,
+                "width": 153.3793103448276,
+                "left": 171.9655172413793,
+                "top": 331.28834355828224
+            },
+            "points": [
+                {
+                    "x": 171.9655172413793,
+                    "y": 331.28834355828224
+                },
+                {
+                    "x": 325.3448275862069,
+                    "y": 331.28834355828224
+                },
+                {
+                    "x": 325.3448275862069,
+                    "y": 545.5214723926381
+                },
+                {
+                    "x": 171.9655172413793,
+                    "y": 545.5214723926381
+                }
+            ]
+        },
+        {
+            "id": "2ehxBoBeU",
+            "type": "RECTANGLE",
+            "tags": [
+                "Bullous Disease Photos"
+            ],
+            "boundingBox": {
+                "height": 133.6196319018405,
+                "width": 219.58620689655172,
+                "left": 199.55172413793102,
+                "top": 23.190184049079758
+            },
+            "points": [
+                {
+                    "x": 199.55172413793102,
+                    "y": 23.190184049079758
+                },
+                {
+                    "x": 419.13793103448273,
+                    "y": 23.190184049079758
+                },
+                {
+                    "x": 419.13793103448273,
+                    "y": 156.80981595092027
+                },
+                {
+                    "x": 199.55172413793102,
+                    "y": 156.80981595092027
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
